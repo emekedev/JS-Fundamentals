@@ -1,6 +1,4 @@
-const test1 = 'Python';
-const test2 = 'fun';
-const test3 = 'HBTN';
+
 
 
 

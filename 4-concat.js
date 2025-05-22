@@ -1,7 +1,7 @@
 const test1 = 'Python';
 const test2 = 'fun';
 const test3 = 'HBTN';
-const test4 = undefined;
+const test4 = 'undefined';
 
 
 const args = process.argv.slice(2);

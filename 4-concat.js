@@ -1,8 +1,4 @@
-
-
-
-
-const args = process.argv.slice(2);
-
-console.log(`${args[test1]} is ${args[test2]}`);
-
+function myFunction(val1, val2, val3){
+    console.log(myFunction('Python', 'is', 'fun' ))
+    console.log(myFunction('HBTN'))
+}

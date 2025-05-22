@@ -1,6 +1,6 @@
-const conCat = function myFunction(arg1, arg2){
-    return arg1 + "" + "is" + arg2;
-}
 
-myFunction("Python", "fun");
-console.log(conCat);
+const args = process.argv.slice(2);
+
+console.log(`${args[Python]} is ${args[fun]}`);
+console.log(`${args[HBTN]}`);
+console.log(args);

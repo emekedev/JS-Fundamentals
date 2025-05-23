@@ -4,6 +4,4 @@ const languages = [
     'JavaScript is amazing'
 ]
 
-for(let i =0; i<languages.length; i++){
-    console.log(languages[i]);
-}
+for (const lang of languages) console.log(lang);

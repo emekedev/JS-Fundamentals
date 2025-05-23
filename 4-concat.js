@@ -4,10 +4,9 @@
 // 4. Use `console.log()` to print the result to the console.
 
 function myFunction(val1, val2){
-    return val1 + " " + 'is' + " " + val2
+    return val1 +  + " " + val2
 }
 
 let result = myFunction("Python", "fun");
-let test = myFunction('HBTN')
+
 console.log(result);
-console.log(test);
